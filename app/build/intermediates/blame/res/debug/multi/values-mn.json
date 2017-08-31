@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 208,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\X550Z FX\\.android\\build-cache\\4607a3542ba013890bf2e9a27411f4094087bee8\\output\\res\\values-mn\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 208,
+                        "endOffset": 493
+                    }
+                }
+            }
+        ]
+    }
+]

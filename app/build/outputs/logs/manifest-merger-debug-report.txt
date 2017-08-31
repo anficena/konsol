@@ -1,0 +1,505 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:7:5-80:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\X550Z FX\.android\build-cache\29b654715786a8c5669b8d32526eeb8122e93935\output\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\X550Z FX\.android\build-cache\86603d15cd81267719e106d2de89884abbf753ae\output\AndroidManifest.xml:9:5-20
+MERGED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:39:5-91:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\X550Z FX\.android\build-cache\33eeac2d82e2fc67539646eb6398511649fcdb7d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\X550Z FX\.android\build-cache\01085aa90b46617ad59a58e15dec81a2b89fe917\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\0c5bf3196fafc30756fab3136b81d42c9c1bd47d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\X550Z FX\.android\build-cache\12eff0d1c80a8a9b6c59de55f707423b7207f56a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.qiscus.mqtt:android:1.1.1-q] C:\Users\X550Z FX\.android\build-cache\9e61402643fdeb9af0defbc8f872eb76af997eb8\output\AndroidManifest.xml:10:5-11:19
+MERGED from [com.google.firebase:firebase-core:11.0.2] C:\Users\X550Z FX\.android\build-cache\2c975efcf97f2c8676f348efdd1b02c8b89c4945\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\X550Z FX\.android\build-cache\ca49fb45bcd7853b57023271c676c5f11a9dc34b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\X550Z FX\.android\build-cache\4607a3542ba013890bf2e9a27411f4094087bee8\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\X550Z FX\.android\build-cache\875c1fd790626870aa71314cbcba1a12ed88a2f5\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\2a4ac1f5118083043a2c515797339c65ae647517\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\X550Z FX\.android\build-cache\ef7a3328821692b9d243a85a97dd8bb0e14ee16a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\X550Z FX\.android\build-cache\e007164c634bc3360f201a23ba9f79bf7f53ccef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\X550Z FX\.android\build-cache\1920784304c44796a1853cd3092ec5d78d052665\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\X550Z FX\.android\build-cache\7c357871f3af1e6794164195462a58956090fe43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\X550Z FX\.android\build-cache\f04d704b9dbd8ad10c11c65560caaa1217ef5450\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\X550Z FX\.android\build-cache\1e092d78d9fec436a930a4e0aeeb15b9c08ba7b8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\X550Z FX\.android\build-cache\67afbe52a24846196a6121333f693b6418ddd26e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\X550Z FX\.android\build-cache\e3eeb05fac051e8abbb7e7fed9ace1bade154f5b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:10:9-31
+	android:supportsRtl
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:12:9-48
+	android:allowBackup
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:largeHeap
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:39:18-42
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:14:9-52
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:8:9-61
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:15:9-17:55
+	android:value
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:17:13-52
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:16:13-58
+activity#com.example.fajarir.Konsol.splash_screen
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:20:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.fajarir.Konsol.slider_intro
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:28:9-30:68
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:29:13-67
+activity#com.example.fajarir.Konsol.Custom_chat
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:31:9-75
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:31:19-72
+activity#com.example.fajarir.Konsol.MainActivity
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:33:19-73
+intent-filter#android.intent.category.DEFAULT+com.example.fajarir.Konsol.dosen.MainActivity
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:35:13-39:29
+action#com.example.fajarir.Konsol.dosen.MainActivity
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:36:17-88
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:36:25-85
+category#android.intent.category.DEFAULT
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:38:27-73
+activity#com.example.fajarir.Konsol.TabActivity
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:42:9-45:68
+	android:label
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:43:13-66
+activity#com.example.fajarir.Konsol.dosen.DosenActivity
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:46:9-49:68
+	android:label
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:47:13-74
+activity#com.example.fajarir.Konsol.mahasiswa.MahasiswaActivity
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:50:9-53:68
+	android:label
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:51:13-82
+activity#com.example.fajarir.Konsol.About
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:54:9-62:20
+	android:label
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:55:13-60
+intent-filter#android.intent.category.DEFAULT+com.example.fajarir.Konsol.About
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:57:13-61:29
+action#com.example.fajarir.Konsol.About
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:58:17-75
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:58:25-72
+activity#com.example.fajarir.Konsol.reminder.AddAlarm
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:63:9-71:20
+	android:label
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:65:13-34
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:64:13-72
+intent-filter#android.intent.category.DEFAULT+com.example.fajarir.Konsol.reminder.Addalarm
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:66:13-70:29
+action#com.example.fajarir.Konsol.reminder.Addalarm
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:67:17-87
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:67:25-84
+receiver#com.example.fajarir.Konsol.reminder.AlarmNotif
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:73:9-83
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:73:19-80
+activity#com.example.fajarir.Konsol.Register
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:75:9-76:75
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:76:13-63
+activity#com.example.fajarir.Konsol.UserProfile
+ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:77:9-79:20
+	android:name
+		ADDED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml:77:19-72
+uses-sdk
+INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\X550Z FX\.android\build-cache\29b654715786a8c5669b8d32526eeb8122e93935\output\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.3] C:\Users\X550Z FX\.android\build-cache\da9313476f6daadfa512a7ae9d45c3dbee512e13\output\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\X550Z FX\.android\build-cache\86603d15cd81267719e106d2de89884abbf753ae\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\X550Z FX\.android\build-cache\18e0d44a923d6a1717cb4e0023e57994ab15c433\output\AndroidManifest.xml:5:5-43
+MERGED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\X550Z FX\.android\build-cache\33eeac2d82e2fc67539646eb6398511649fcdb7d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\e29b4bf95527a8dbdf70dd6d470bf11db331ad00\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\X550Z FX\.android\build-cache\01085aa90b46617ad59a58e15dec81a2b89fe917\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\0c5bf3196fafc30756fab3136b81d42c9c1bd47d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\X550Z FX\.android\build-cache\12eff0d1c80a8a9b6c59de55f707423b7207f56a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.trello:rxlifecycle-components:1.0] C:\Users\X550Z FX\.android\build-cache\812fe9e5780be531231b604b01fb0173054f272c\output\AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle-android:1.0] C:\Users\X550Z FX\.android\build-cache\0caad9c25d3d2634b8ec91de34020ca5488b313e\output\AndroidManifest.xml:17:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\X550Z FX\.android\build-cache\e7308ab1c44808d64196936217a7a6e1c611f165\output\AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\X550Z FX\.android\build-cache\ea575901fb7633b95c53d123a763b0a031833e86\output\AndroidManifest.xml:19:5-43
+MERGED from [com.qiscus.mqtt:android:1.1.1-q] C:\Users\X550Z FX\.android\build-cache\9e61402643fdeb9af0defbc8f872eb76af997eb8\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:11.0.2] C:\Users\X550Z FX\.android\build-cache\2c975efcf97f2c8676f348efdd1b02c8b89c4945\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\X550Z FX\.android\build-cache\ca49fb45bcd7853b57023271c676c5f11a9dc34b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\X550Z FX\.android\build-cache\4607a3542ba013890bf2e9a27411f4094087bee8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\X550Z FX\.android\build-cache\875c1fd790626870aa71314cbcba1a12ed88a2f5\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.vanniktech:emoji-one:0.5.0] C:\Users\X550Z FX\.android\build-cache\6094e6e32a36747d11cb23ab48ee4586a491f157\output\AndroidManifest.xml:6:5-44
+MERGED from [com.vanniktech:emoji:0.5.0] C:\Users\X550Z FX\.android\build-cache\1d0aeb9a9bfd5578845f27701d6bde99c7ba90f4\output\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\2a4ac1f5118083043a2c515797339c65ae647517\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\X550Z FX\.android\build-cache\ef7a3328821692b9d243a85a97dd8bb0e14ee16a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\X550Z FX\.android\build-cache\e007164c634bc3360f201a23ba9f79bf7f53ccef\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\X550Z FX\.android\build-cache\1920784304c44796a1853cd3092ec5d78d052665\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\X550Z FX\.android\build-cache\7c357871f3af1e6794164195462a58956090fe43\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\X550Z FX\.android\build-cache\f04d704b9dbd8ad10c11c65560caaa1217ef5450\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\X550Z FX\.android\build-cache\1e092d78d9fec436a930a4e0aeeb15b9c08ba7b8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\X550Z FX\.android\build-cache\67afbe52a24846196a6121333f693b6418ddd26e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\X550Z FX\.android\build-cache\e3eeb05fac051e8abbb7e7fed9ace1bade154f5b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\X550Z FX\.android\build-cache\33eeac2d82e2fc67539646eb6398511649fcdb7d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\Consol-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:27:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:29:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:31:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:35:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:36:22-68
+uses-permission#android.permission.CAMERA
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:37:22-62
+activity#com.qiscus.sdk.ui.QiscusChatActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:40:9-42:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:42:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:41:13-64
+activity#com.qiscus.sdk.ui.QiscusGroupChatActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:43:9-45:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:45:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:44:13-69
+activity#com.qiscus.sdk.ui.QiscusAccountLinkingActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:46:9-48:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:48:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:47:13-74
+activity#com.qiscus.sdk.ui.QiscusPhotoViewerActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:49:9-51:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:50:13-71
+activity#com.qiscus.sdk.filepicker.FilePickerActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:52:9-54:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:54:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:53:13-72
+activity#com.qiscus.sdk.filepicker.MediaDetailsActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:55:9-57:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:56:13-74
+activity#com.qiscus.sdk.ui.QiscusSendPhotoConfirmationActivity
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:58:9-60:50
+	android:theme
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:59:13-81
+service#com.qiscus.sdk.service.QiscusPusherService
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:62:9-78
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:62:18-75
+service#org.eclipse.paho.android.service.MqttService
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:63:9-80
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:63:18-77
+receiver#com.qiscus.sdk.service.QiscusStartReceiver
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:65:9-73:20
+	android:enabled
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:67:13-35
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:66:13-70
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.qiscus.START_SERVICE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:68:13-72:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:69:17-79
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:69:25-76
+action#com.qiscus.START_SERVICE
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:70:17-67
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:70:25-64
+action#android.intent.action.USER_PRESENT
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:71:17-77
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:71:25-74
+receiver#com.qiscus.sdk.service.QiscusPusherReceiver
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:74:9-80:20
+	android:exported
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:75:13-71
+intent-filter#com.qiscus.OPEN_COMMENT_PN
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:77:13-79:29
+action#com.qiscus.OPEN_COMMENT_PN
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:78:25-66
+provider#android.support.v4.content.FileProvider
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:82:9-90:20
+	android:authorities
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:84:13-71
+	android:grantUriPermissions
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:86:13-47
+	android:exported
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:85:13-37
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:83:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:87:13-89:65
+	android:resource
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:89:17-62
+	android:name
+		ADDED from [com.qiscus.sdk:chat:2.7.0] C:\Users\X550Z FX\.android\build-cache\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\output\AndroidManifest.xml:88:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\X550Z FX\.android\build-cache\33eeac2d82e2fc67539646eb6398511649fcdb7d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\e29b4bf95527a8dbdf70dd6d470bf11db331ad00\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\X550Z FX\.android\build-cache\01085aa90b46617ad59a58e15dec81a2b89fe917\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\0c5bf3196fafc30756fab3136b81d42c9c1bd47d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\X550Z FX\.android\build-cache\12eff0d1c80a8a9b6c59de55f707423b7207f56a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\X550Z FX\.android\build-cache\2a4ac1f5118083043a2c515797339c65ae647517\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\X550Z FX\.android\build-cache\ef7a3328821692b9d243a85a97dd8bb0e14ee16a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\X550Z FX\.android\build-cache\e007164c634bc3360f201a23ba9f79bf7f53ccef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\X550Z FX\.android\build-cache\1920784304c44796a1853cd3092ec5d78d052665\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\X550Z FX\.android\build-cache\7c357871f3af1e6794164195462a58956090fe43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\X550Z FX\.android\build-cache\f04d704b9dbd8ad10c11c65560caaa1217ef5450\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\X550Z FX\.android\build-cache\1e092d78d9fec436a930a4e0aeeb15b9c08ba7b8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\X550Z FX\.android\build-cache\67afbe52a24846196a6121333f693b6418ddd26e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\X550Z FX\.android\build-cache\e3eeb05fac051e8abbb7e7fed9ace1bade154f5b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\X550Z FX\.android\build-cache\33eeac2d82e2fc67539646eb6398511649fcdb7d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\X550Z FX\.android\build-cache\33eeac2d82e2fc67539646eb6398511649fcdb7d\output\AndroidManifest.xml:26:9-47
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] C:\Users\X550Z FX\.android\build-cache\171b945055fe439823ffff6dd2b1aa7c46f5af49\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] C:\Users\X550Z FX\.android\build-cache\65ddd68bf3157c0a04654d02816cd4741ef32765\output\AndroidManifest.xml:33:16-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] C:\Users\X550Z FX\.android\build-cache\b77310b8790acf184d3d6aa8640ba5940fcfdd4e\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] C:\Users\X550Z FX\.android\build-cache\7d126fe10dfc26f9cb9413d2609044fabeb55d64\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] C:\Users\X550Z FX\.android\build-cache\260b8434eaba957c69224343f0bfe23e0734344a\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\X550Z FX\.android\build-cache\4607a3542ba013890bf2e9a27411f4094087bee8\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\X550Z FX\.android\build-cache\4607a3542ba013890bf2e9a27411f4094087bee8\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\X550Z FX\.android\build-cache\4607a3542ba013890bf2e9a27411f4094087bee8\output\AndroidManifest.xml:20:20-65

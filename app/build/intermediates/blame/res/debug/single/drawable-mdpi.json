@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_person_white_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_note_add_white_48dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\drawable-mdpi\\ic_note_add_white_48dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stars_black_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\drawable-mdpi\\ic_stars_black_24dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_keyboard_arrow_down_black_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_arrow_down_black_24dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\students_cap.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\drawable-mdpi\\students_cap.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_add.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check_white_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check_white_24dp.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab.xml",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\menu\\menu_tab.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\comment_action.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\\output\\res\\menu\\comment_action.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_picker.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\\output\\res\\menu\\file_picker.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tabs.xml",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\menu\\menu_tabs.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\media_action.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\4fd7cd65e9cc46c4510cdc998f81b7d135a93b7d\\output\\res\\menu\\media_action.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_alarm.xml",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\menu\\menu_alarm.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_default.xml",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\menu\\menu_default.xml"
+    }
+]

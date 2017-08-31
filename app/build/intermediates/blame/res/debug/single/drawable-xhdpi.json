@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_keyboard_arrow_down_black_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_keyboard_arrow_down_black_24dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_add.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_white_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_check_white_24dp.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_check_white_24dp.png"
+    }
+]

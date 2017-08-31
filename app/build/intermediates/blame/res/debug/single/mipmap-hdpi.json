@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\alarm.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\alarm.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logoapps.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\logoapps.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_close.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\user_icon2.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\user_icon2.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\user_icon.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-hdpi\\user_icon.png"
+    }
+]

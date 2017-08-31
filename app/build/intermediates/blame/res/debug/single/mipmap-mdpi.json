@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\user_icon2.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-mdpi\\user_icon2.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\alarm.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-mdpi\\alarm.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_close.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\ProjectPI\\Consol-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\ProjectPI\\Consol-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
